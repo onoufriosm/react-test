@@ -1,4 +1,4 @@
-import React from 'react'
+import Paragraph from 'react'
 
 const Text = ({ children }) => (
 	<p>{ children }</p>
